@@ -1,0 +1,11 @@
+/Users/jdfuller/source/codeworks/csharper/console-library/obj/Debug/netcoreapp3.1/console-library.csprojAssemblyReference.cache
+/Users/jdfuller/source/codeworks/csharper/console-library/obj/Debug/netcoreapp3.1/console-library.AssemblyInfoInputs.cache
+/Users/jdfuller/source/codeworks/csharper/console-library/obj/Debug/netcoreapp3.1/console-library.AssemblyInfo.cs
+/Users/jdfuller/source/codeworks/csharper/console-library/bin/Debug/netcoreapp3.1/console-library
+/Users/jdfuller/source/codeworks/csharper/console-library/bin/Debug/netcoreapp3.1/console-library.deps.json
+/Users/jdfuller/source/codeworks/csharper/console-library/bin/Debug/netcoreapp3.1/console-library.runtimeconfig.json
+/Users/jdfuller/source/codeworks/csharper/console-library/bin/Debug/netcoreapp3.1/console-library.runtimeconfig.dev.json
+/Users/jdfuller/source/codeworks/csharper/console-library/bin/Debug/netcoreapp3.1/console-library.dll
+/Users/jdfuller/source/codeworks/csharper/console-library/bin/Debug/netcoreapp3.1/console-library.pdb
+/Users/jdfuller/source/codeworks/csharper/console-library/obj/Debug/netcoreapp3.1/console-library.dll
+/Users/jdfuller/source/codeworks/csharper/console-library/obj/Debug/netcoreapp3.1/console-library.pdb
